@@ -8,8 +8,6 @@
 
 **Checkpoint:** `yolo11n-cls.pt`, `yolo11n.pt`, `yolo11n-seg.pt` (cả ba `PASS` checksum SHA-256)
 
-**Ảnh mẫu:** `traffic` (COCO 210273, 640×428), `kitchen` (COCO 397133, 640×427), `dining` (COCO 166918). Notebook xác minh SHA-256 khi tải, ô validation báo `PASS`.
-
 **Ngưỡng detection/segmentation dùng khi tạo JSON:** `0.35` (không đổi)
 
 **Thay đổi so với notebook nguồn:** Không
